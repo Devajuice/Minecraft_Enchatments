@@ -115,5 +115,3 @@ BE
 - Mending <img src="anvil.png" width="20">
 - Efficiency V
 - Silk Touch
-
-#<img src="/Weapons/axe.png" width="30"> [Axe](#axe)
